@@ -1,2 +1,3 @@
 # thirdgate-site
-Site for publisher data on thirdgate.dev
+
+Repo for site at [https://thirdgate.dev](https://thirdgate.dev).
