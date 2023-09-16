@@ -29,3 +29,4 @@ jobs:
             cd $TARGETDIR
             pwd
             git pull origin main
+            sudo mv static/* /var/www/thirdgate/
